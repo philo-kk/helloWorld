@@ -17,6 +17,6 @@ hello <- function() {
   print("Hello, world!")
 }
 
-echo "#helloWorld" >> README.md
+
 
 
